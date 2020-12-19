@@ -7,4 +7,4 @@ Mijn eerste update op Centos7
 #git add README.md 
 #git commit -m "nieuwe update, cxxxx"
 #git push README.md
-
+#git pull README.md
